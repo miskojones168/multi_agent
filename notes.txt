@@ -1,0 +1,17 @@
+1. find existing formulations of multiagent gridworld problems
+
+
+1. build simple goal finding gridworld problems
+
+a. update env to hold the state of all relevant objects
+    env in example holds different objects because its using OO-POMDP
+    instead make world_state to define obstacles and targets
+
+    agent does not hold state. it holds belief about its state.
+
+        define belief representation for Agent class ***
+
+b. make an actual example of agent going to target location
+c. 
+
+2. find way to update reward model to change goals -> search box reward -> search target reward
