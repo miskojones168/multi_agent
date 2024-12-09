@@ -23,3 +23,6 @@ The POMDP components are implemented in:
 
 ### Miscellaneous
 ```example_world.py```: how functions for randomly generating a 2D gridworld.
+
+### Note
+This code was adapted from the Multi-Object Search example provided by the ```pomdp_py``` framework [See](https://h2r.github.io/pomdp-py/html/examples.mos.html). 
