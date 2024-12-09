@@ -22,7 +22,7 @@ The POMDP components are implemented in:
 ```env```: implements the environment that holds true state of the world.
 
 ### Miscellaneous
-```example_world.py```: how functions for randomly generating a 2D gridworld.
+```example_world.py```: functions for generating 2D gridworlds.
 
 ### Note
 This code was adapted from the Multi-Object Search example provided by the ```pomdp_py``` framework [See](https://h2r.github.io/pomdp-py/html/examples.mos.html). 
